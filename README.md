@@ -1,5 +1,7 @@
+-  ## **Welcome to my github profile !**
+-  ## **About me:**
 -  Hello there, I am Muhammad Fasih here at your service and welcome to my github profile !
--  I am a very dedicated and discplined developer having capabilities to bring your projects to a next level !
+-  I am a a very dedicated python developer having expertise in various python domains for development of your projects !
 -  ## **About my skills:**
 -  🧑‍💻 Python data manager and scientist
 - 🌱 I’m currently learning ...
