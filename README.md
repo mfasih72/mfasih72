@@ -6,7 +6,7 @@
 -  🧑‍💻 Python data manager and scientist
 -  📜 Expertise in basic to advanced python scripts
 -  📦 Proficient in using various data science , ml and ai libraries like Numpy, TensorFlow , Pandas
--  🔍 Deep understanding in data strucutres and algorithms for development and troubleshooting,
+-  🔍 Deep understanding in data strucutres and algorithms for development and troubleshooting
    💾 Python MongoDB (Database)
 -  📖 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
