@@ -1,6 +1,6 @@
 -  Hello there, I am Muhammad Fasih here at your service and welcome to my github profile !
 -  I am a very dedicated and discplined developer having capabilities to bring your projects to a next level !
--  # **about my skills:**
+-  ## **About my skills:**
 -  🧑‍💻 Python data manager and scientist
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
